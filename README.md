@@ -17,6 +17,6 @@
 |성명|역할|
 |---|---|
 |[김규형](https://github.com/)|Data_Binding|
-|[소부승](https://github.com/bootkorea)|BackEnd|
+|[소부승](https://github.com/bootkorea)|BackEnd, DevOps|
 |[정예성](https://github.com/)|BackEnd|
 |[황예찬](https://github.com/)|FronEnd|
