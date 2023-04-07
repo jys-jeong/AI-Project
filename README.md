@@ -9,9 +9,9 @@
 ## 기술 스택
 |분야|사용 기술|
 |---|---|
-|FronEnd| |
+|FrontEnd| |
 |BackEnd| |
-|Designn| |
+|Design| |
 
 ## Team
 |성명|역할|
@@ -19,4 +19,4 @@
 |[김규형](https://github.com/)|Data_Binding|
 |[소부승](https://github.com/bootkorea)|BackEnd, DevOps|
 |[정예성](https://github.com/)|BackEnd|
-|[황예찬](https://github.com/)|FronEnd|
+|[황예찬](https://github.com/)|FrontEnd|
