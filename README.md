@@ -9,9 +9,9 @@
 ## 기술 스택
 |분야|사용 기술|
 |---|---|
-|FrontEnd| |
-|BackEnd| |
-|Design| |
+|FrontEnd| React Native |
+|BackEnd| Python |
+|Design| CSS |
 
 ## Team
 |성명|역할|
